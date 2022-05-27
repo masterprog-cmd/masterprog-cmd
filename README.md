@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xavier Abad Gómez</h1>
-<h3 align="center">A passionate developer from Spain</h3>
+<h3 align="center">A developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masterprog-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="masterprog-cmd" /> </p>
 
